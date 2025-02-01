@@ -6,6 +6,16 @@ This project explores various aspects of ecommerce business performance using SQ
 - **Sales Trend Analysis:** Studying sales performance, including total sales and product popularity.
 - **Order Analytics:** Analyzing the total orders, revenues, shipping times, and more.
 
+## Data Description
+The dataset used for analysis includes the following tables:
+
+- **Orders:** Order details, including order IDs, customer IDs, and order timestamps.
+- **Order Items:** Information about the products within each order.
+- **Payments:** Payment methods and amounts for each order.
+- **Products:** Details of products, including product categories and prices.
+- **Reviews:** Customer feedback and review scores for products.
+- **Sellers:** Information about sellers, including seller IDs and locations.
+
 Data visualizations are created using `matplotlib` and `seaborn` to present the findings clearly.
 
 ## Requirements
@@ -22,3 +32,8 @@ You can install the required Python libraries using pip:
 
 ```bash
 pip install pandas matplotlib seaborn sqlite3
+
+
+Acknowledgments
+Thanks to the authors of the dataset for making it available.
+Special thanks to the Python and SQL communities for their open-source libraries and resources.
