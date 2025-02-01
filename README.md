@@ -6,6 +6,9 @@ This project explores various aspects of ecommerce business performance using SQ
 - **Sales Trend Analysis:** Studying sales performance, including total sales and product popularity.
 - **Order Analytics:** Analyzing the total orders, revenues, shipping times, and more.
 
+## Dataset
+You can find all tables via kaggle link.
+
 ## Data Description
 The dataset used for analysis includes the following tables:
 
