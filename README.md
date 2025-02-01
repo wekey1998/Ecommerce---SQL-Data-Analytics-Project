@@ -7,7 +7,7 @@ This project explores various aspects of ecommerce business performance using SQ
 - **Order Analytics:** Analyzing the total orders, revenues, shipping times, and more.
 
 ## Dataset
-You can find all tables via kaggle link.
+You can find all tables via kaggle !link(https://www.kaggle.com/code/vigneshwaranchokka/ecommerce-data-analytics-project).
 
 ## Data Description
 The dataset used for analysis includes the following tables:
